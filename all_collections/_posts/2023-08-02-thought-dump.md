@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "O nível do futebol femenino brasileiro esta aumentando?"
+title:  "A eliminação precoce do Brasil na Copa do Mundo Femenina"
 ---
 
 
-Na noite do dia 19 de julho eu fui me deitar pensando na copa do mundo que começaria no dia seguinte, aqeula mistura de animação com ansiedade, quando um evento tão esperado como esse esta pra começar. Me peguei pensando na seleção brasileira e pensei, ganhar a copa acho que não vamos mas podemos surprender e ir longe, quem sabe beliscar uma semi. Olhei pro teto como quem fala com uma força maior e disse: pedir pra ganhar acho que é demais, mas por favor não deixe que a gente saia de cabeça baixa. Até pensei, se cairmos pra Alemanha tudo bem, mas que a gente saia deixando todo o futebol que nós temos pra mostrar. Se você não acredita e forças maiores essa história não vai mudar a sua percepção pois o que eu temia foi exatamente o que aconteceu. 
+Na noite do dia 19 de julho eu fui me deitar pensando na copa do mundo que começaria no dia seguinte, aqeula mistura de animação com ansiedade, quando um evento tão esperado como esse esta pra começar. Me peguei pensando na seleção brasileira e pensei, ganhar a copa acho que não vamos mas podemos surprender e ir longe, quem sabe beliscar uma semi. Olhei pro teto como quem fala com uma força maior e disse: pedir pra ganhar acho que é demais, mas por favor não deixe que a gente saia de cabeça baixa. Até pensei, se cairmos para a Alemanha tudo bem, mas que a gente saia deixando todo o futebol que nós temos pra mostrar. Se você não acredita e forças maiores essa história não vai mudar a sua percepção pois o que eu temia foi exatamente o que aconteceu. 
 
 A pior campanha da seleção em 28 anos, eliminada na fase de grupos para um time que teve que fazer uma vaquinha para conseguir o dinehiro necessario para ir até a Austrália. Um vexame total. Tudo isso no momento que a modalidade tem a maior estrutura que já teve, muito mais investimento do que antes e também o maior número de expectadores. Claro, o esporte é um investimento a longo prazo, não se pode esperar resultados imediatos, mas o desempenho da seleção foi muito abaixo do esperado e é importante entender o porque, então aqui vai a minha humilde opinião. 
 
