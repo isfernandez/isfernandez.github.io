@@ -1,4 +1,4 @@
-title: Isabel Test
+title: Isabel's Thoughts
 markdown: kramdown
 url: "https://isfernandez.github.io/"
 #baseurl: "/jekyll-theme-material-you"
@@ -6,7 +6,7 @@ url: "https://isfernandez.github.io/"
 # for atom feed
 author:
   name: Isabel Fernandez
-  email: dev_sharad@outlook.com
+  email: bel.f.pereira@gmail.com
 
 plugins:
   - jemoji
