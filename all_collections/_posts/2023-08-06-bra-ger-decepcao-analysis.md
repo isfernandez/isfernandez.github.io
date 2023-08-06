@@ -26,11 +26,11 @@ Brasil nao perdeu nenhum, mas Alemanha teve uma goleada maior, dificil comparar 
 - Alemanha fez mais e tomou mais gols -> saldo de gols é igual 
 - Alemanha teve mais posse de bola, mas apenas um pouco (e como sabemos posse de bola não ganha jogo)
 
-> **Note**
+> **Definições**
 - xG: gols esperados. Modelo matemático que calcula a chance de um chute a gol ser bem sucedido, ou seja, do gol ser feito, baseado de onde no campo o chute foi feito e da posição dos outros jogadores. Um chute a gol de fora da area geralmente tem um eG menor de que um chute de dentro da pequena área, mas ao mesmo tempo um chute da pequena área com 3 defensores entre a bola e gol tem uma eG menor do que um chute da mesma posição apenas com o goleiro entre a bola e o gol. 
 - eGC: a eG do seu adversário, ou seja, quantos gols o outro time "deveria" ter feito e por tabela quantos gols o seu time "deveria" ter tomado. 
 
-<table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">            <th>Squad</th>      <th>eG</th>      <th>eGsp</th>      <th>eG_90m</th>      <th>eGC</th>      <th>eG_vs_rG</th>      <th>eGA_vs_rGA</th>    </tr>  </thead>  <tbody>    <tr>           <td>Brazil</td>      <td>7.4</td>      <td>7.4</td>      <td>2.46</td>      <td>1.6</td>      <td>-2.4</td>      <td>-0.4</td>    </tr>    <tr>          <td>Germany</td>      <td>5.9</td>      <td>5.1</td>      <td>1.96</td>      <td>1.6</td>      <td>0.1</td>      <td>-1.4</td>   </tr>  </tbody></table>
+<table border="1" class="dataframe">  <thead>    <tr style="text-align: right;">            <th>Time</th>      <th>eG</th>      <th>eGsp</th>      <th>eG_90m</th>      <th>eGC</th>      <th>eG_vs_rG</th>      <th>eG_vs_rG</th>    </tr>  </thead>  <tbody>    <tr>           <td>Brasil</td>      <td>7.4</td>      <td>7.4</td>      <td>2.46</td>      <td>1.6</td>      <td>-2.4</td>      <td>-0.4</td>    </tr>    <tr>          <td>Alemanha</td>      <td>5.9</td>      <td>5.1</td>      <td>1.96</td>      <td>1.6</td>      <td>0.1</td>      <td>-1.4</td>   </tr>  </tbody></table>
 
 - Brasil teve um eG maior que o da Alemanha -> ponto pro Brasil 
 - O Brasil sofreu o mesmo tanto de eGC que a Alemanha -> empate, desemprenho parecido das defesa dos dois times
