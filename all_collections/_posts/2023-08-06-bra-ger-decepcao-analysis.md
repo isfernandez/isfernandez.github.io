@@ -3,6 +3,7 @@ layout: post
 title:  "Entre Brasil e Alemanha, quem decepcionou mais na copa?"
 ---
 
+Há uma semana o Brasil se despedia da copa do mundo femenina na fase de grupo. Um baque, um vexame, um desempenho muito longe do esperado. Nós quase não tivemos tempo de processar essa derrota porque no dia seguinte a gigante Alemanha, considerada por muitos uma das favoritas ao título também foi eliminada. Devo admitir que me trouxe muito comforto 
 
 - Brasil se despediu da copa, um baque, mas no dia seguinte a Alemanha caiu. Trouxe um certo comforto, nao q tire o vexame q o brasil deu. Afinal, quem decepcionou mais? 
 
