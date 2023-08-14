@@ -3,13 +3,8 @@ layout: post
 title:  "Entre Brasil e Alemanha, quem decepcionou mais na copa?"
 ---
 
-Há uma semana o Brasil se despedia da copa do mundo femenina na fase de grupo. Um baque, um vexame, um desempenho muito longe do esperado. Nós quase não tivemos tempo de processar essa derrota porque no dia seguinte a gigante Alemanha, considerada por muitos uma das favoritas ao título também foi eliminada. Devo admitir que me trouxe muito comforto 
+Há uma semana o Brasil se despedia da copa do mundo femenina na fase de grupo. Um baque, um vexame, um desempenho muito longe do esperado. Nós quase não tivemos tempo de processar essa derrota porque no dia seguinte a gigante Alemanha, considerada por muitos uma das favoritas ao título também foi eliminada. Devo admitir que me trouxe muito comforto saber que não fomos as únicas a entregar um futebol muito abaixo do esperado. Isso me levou a pensar, qual país decepcionou mais na copa? Alemanha ou Brasil. Olhando o ranking da FIFA a Alemanha é atualemnte a número 2 do mundo, enquanto o Brasil ocupa a posição de número 8. O que sugere que as alemãs tiveram um vexame maior com essa saida precoce. Mas será que isso conta a história completa? 
 
-- Brasil se despediu da copa, um baque, mas no dia seguinte a Alemanha caiu. Trouxe um certo comforto, nao q tire o vexame q o brasil deu. Afinal, quem decepcionou mais? 
-
-- Alemanha nunca tinha sido eliminada nessa fase (pesquisar essa info), e ja foi campea. O brasil, apesar de fazer muito tempo ja foi eliminado 2 vezes na fase de grupo e nunca ganhou uma copa -> Alemanha
-- Alemanha é número 2 no ranking FIFA, brasil é 8 -> Alemanha 
--
 
 ## Qual grupo era mais difícil? 
 Não é suficiente olhar apenas para o desempenho em copas passadas e o ranking atual da FIFA para medir o tamanho da decepção de cada seleção. Brasil e Alemanha estavam em grupo diferentes e enfreteram adversários de dificuldades diferentes.- mas qual grupo era mais difícil? O Brasil (8) estava no **Grupo F** com França (5), Jamaica (43) e Panama (52 - estreia em copas). Já a Alemanha (2) estava no **Grupo H** e jogou contra Coréia do Sul (17), Colombia (25) e Marrocos (72- estreia em copas).
